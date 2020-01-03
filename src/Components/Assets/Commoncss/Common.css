@@ -1,0 +1,50 @@
+.text-dcor{
+    font-size: 35px;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+  
+    color: #0E297D;
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+.btn-border{
+    border-color :#DC631D;
+    font-family:  "Segoe UI" "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    color: #DC631D;
+    font-weight: bold;
+    width: 140px;
+  
+   border-radius: 2px;
+   border-width: 2px;
+   border-radius: 5px;
+   
+}
+.button-hover:hover{
+    
+    background: #DC631D;
+    color: white;
+}
+
+.fullclr{
+    background-color: #C1EADC;
+}
+.pad-btn{
+   
+    padding-top: 10px;
+    padding-bottom: 40px;
+   
+}
+.NEW{
+    font-size: 35px;
+    font-family: Verdana, sans-serif;
+     font-weight: bold;
+  
+    color: #0E297D;
+    padding-top: 30px;
+}
+.NEwdowntext{
+    margin-top: 0 px;
+}
+.container-fluid{
+    overflow-x: hidden;
+}

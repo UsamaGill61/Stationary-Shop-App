@@ -1,0 +1,21 @@
+.set-wet{
+    font-family: "Proxima Nova";
+    font-size: 20px;
+     padding-left: 0px;
+    padding-top: 22px;
+}
+.set-wet-1{
+    font-family: "Proxima Nova";
+    font-size: 18px;
+   
+    padding-top: 24px;
+}
+.home-logo-2{
+    height: 70px;
+    padding-top: 22px;
+    padding-left: 40px;
+   padding-bottom: 24px;
+}
+.row-clr{
+    background-color: #DEDADA;
+}

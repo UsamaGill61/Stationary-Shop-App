@@ -1,0 +1,27 @@
+.styleit{
+    font-size: 75px;
+    color: #0e2958;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    margin-top: 20px;
+   
+}
+@media (max-width:992px){
+    .styleit{
+        font-size: 65px;
+    }
+}
+@media (max-width:768px){
+    .styleit{
+        font-size: 55px;
+        padding-left: 20px;
+    }
+}
+@media (max-width:576px){
+    .styleit{
+        font-size: 38px;
+        padding-left: 0px;
+    }
+}
+
