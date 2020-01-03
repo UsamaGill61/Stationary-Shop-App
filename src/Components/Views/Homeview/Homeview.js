@@ -24,7 +24,7 @@ class Homeview extends Component {
                     <Bag/>
                     <Art/>
                     <Party/>
-                    <Footer/>
+                
                 </React.Fragment>
             </div>
         )

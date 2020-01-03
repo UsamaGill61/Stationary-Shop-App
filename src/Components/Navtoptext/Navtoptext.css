@@ -14,13 +14,13 @@
 }
 @media (max-width:768px){
     .styleit{
-        font-size: 55px;
+        font-size: 45px;
         padding-left: 20px;
     }
 }
 @media (max-width:576px){
     .styleit{
-        font-size: 38px;
+        font-size: 34px;
         padding-left: 0px;
     }
 }
