@@ -6,7 +6,7 @@ export class Footer extends Component {
             <div class="container-fluid ">
                 <div class="row row-clr">
                 <div class="col-0 col-sm-0 col-md-2 col-lg-4 col-xl-4"></div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 bg-dark">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
                     <div class="row"> 
                     <div class="col-3">
                     <img 
